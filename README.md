@@ -47,6 +47,14 @@ npm run prod
 
 Running this command will create an `assets` folder that you can expose to your server. 
 
+#### Production mode in local
+
+```bash
+npm run start
+```
+
+You can check on http://localhost:8080
+
 ### How to add post
 
 > Can it be easier?
